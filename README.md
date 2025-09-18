@@ -1,5 +1,5 @@
 # 💫 A propos de Moi:
-Je travaille actuellement sur du Front-End<br>J'appends le React
+Je travaille actuellement sur du Front-End<br>J'apprend LE CIEL
 
 
 ## 🌐 Contact:
