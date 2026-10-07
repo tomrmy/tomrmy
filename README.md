@@ -15,7 +15,7 @@
 
 ### 🚀 Projets Marquants (BTS SIO)
 
-* 🏢 **Création d'un système de gestion de badge RFID** (Projet de TP)
+* 🏢 **Création d'un système de gestion de badge RFID** (Projet de Terminal CIEL)
   * Mise en place d'une base de donnée relié à un site web et un connecter Arduino
 
 
