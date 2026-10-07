@@ -1,18 +1,33 @@
-# 💫 A propos de Moi:
-Je travaille actuellement sur du Front-End<br>J'apprend LE CIEL
+### 👋 Bonjour, je m'appelle [Votre Nom] !
 
-
-## 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-roumy-8aa884348/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomroumy@gmail.com) 
-
-# 💻 Compétences:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 Stats GitHub:
-![](https://github-readme-stats.vercel.app/api?username=tomrmy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tomrmy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrmy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Étudiant en 2ème année de **BTS SIO (Services Informatiques aux Organisations)** option **SISR** (Solutions d'Infrastructure, Systèmes et Réseaux). Passionné par l'administration système, les réseaux et la sécurité informatique.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tomrmy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Mes Compétences Techniques
+
+* **Systèmes :** Windows Server (Active Directory, DNS, DHCP), Linux (Debian, Ubuntu).
+* **Réseaux :** Routage, Commutation (Cisco), VLAN, Pare-feu (pfSense).
+* **Virtualisation & Cloud :** VMware ESXi, Proxmox, Docker.
+* **Sécurité & Outils :** SSH, VPN, Bash, PowerShell, Git / GitHub.
+
+---
+
+### 🚀 Projets Marquants (BTS SIO)
+
+* 🏢 **Refonte d'une infrastructure réseau et Active Directory** (Projet de TP)
+  * Mise en place d'un domaine Windows Server, gestion des GPO, cloisonnement par VLAN.
+* 🛡️ **Sécurisation d'un accès distant**
+  * Installation et configuration d'un pare-feu pfSense avec un tunnel OpenVPN.
+
+---
+
+### 📈 Veille Technologique
+* **Sujet :** La conteneurisation et la sécurité des conteneurs (Docker).
+* **Outils :** Feedly, flux RSS, bulletins d'alerte de l'ANSSI.
+
+---
+
+### 📬 Me contacter
+* 💼 [LinkedIn](https://linkedin.com/in/votre-profil)
+* 📧 [E-mail](mailto:votre.email@example.com)
